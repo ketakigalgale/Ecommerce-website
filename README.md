@@ -2,6 +2,7 @@
 This is a modern, responsive E-commerce web application built using React JS. It offers a smooth shopping interface with product listings, a shopping cart system, and user-friendly navigation, focusing entirely on frontend functionality.
 
 ✅ Key Features
+
 🛒 Product Listing Page with dynamic rendering
 
 📦 Add to Cart functionality (React state-based)
